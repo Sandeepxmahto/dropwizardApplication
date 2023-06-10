@@ -1,0 +1,5 @@
+com\company\resources\SATResult.class
+com\company\dropwizardExampleConfiguration.class
+com\company\dropwizardExampleApplication.class
+com\company\resources\dropwizardExampleResource.class
+com\company\resources\indexResource.class
